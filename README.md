@@ -2,11 +2,12 @@
 - ℹ️ ***About me:***
 
 Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about games and music, doing his best to learn how to program and evolve in the field.
+
 - 🔭 ***I’m currently working on:***
 
 🎮<ins>***Astrotag***</ins>⭐
 
-- 🌱 ***I’m currently learning to use these:***
+- 🌱 ***I’m currently learning:***
 
 ![Java](https://img.shields.io/badge/Code-Java-brightgreen?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python)
