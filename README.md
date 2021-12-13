@@ -37,7 +37,7 @@ Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about gam
 
 ![GitHub followers](https://img.shields.io/github/followers/Smurillopng?style=social)
 
-<object data="https://user-images.githubusercontent.com/72756949/145896137-1d1452f0-a32f-4fb9-9031-f9c5ae524357.png" width="100" height="50"></object>
+![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 ---
 ***From:*** <img src="https://user-images.githubusercontent.com/72756949/141886008-7863eed5-9de6-42d1-9649-ec8fb324d012.png" alt="alt text" width="20" height="20"> :brazil:
 
