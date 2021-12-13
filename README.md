@@ -4,8 +4,6 @@
 Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about games and music, doing his best to learn how to code and evolve in the field.
 ---
 - 🔭 ***I’m currently working on:***
-
-🎮<ins>***Astrotag***</ins>⭐
 ---
 - 🌱 ***I’m currently learning:***
 
@@ -21,8 +19,13 @@ Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about gam
 ![Obsidian](https://img.shields.io/badge/Tool-Obsidian-purple?style=flat-square&logo=obsidian)
 ![Photoshop](https://img.shields.io/badge/Tool-Photoshop-blue?style=flat-square&logo=adobephotoshop)
 ![Aseprite](https://img.shields.io/badge/Tool-Aseprite-lightblue?style=flat-square&logo=aseprite)
-- 📫 ***Socials:***
 ---
+- 🎮 ***My Projects***
+🎮<ins>***[Astrotag](https://github.com/Athos067/ProjetoKsi)***</ins>⭐
+🎮<ins>***[Onomos](https://github.com/kibug0/Onomos)***</ins>⭐
+🎮<ins>***[OnomosWhoosh](https://github.com/Smurillopng/OnomosWhoosh)***</ins>⭐
+---
+- 📫 ***Socials:***
 ![Twitter Follow](https://img.shields.io/twitter/follow/Smurillopng?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/Smurillopng?style=social)
 ![Itch.io](https://img.shields.io/badge/smurillof-Itchio?style=social&logo=itchdotio)
