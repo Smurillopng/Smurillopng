@@ -3,9 +3,9 @@
 ## ℹ️ ***About me:*** 
 
 Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about games and music, doing his best to learn how to code and evolve in the field.
----
+
 ## 🔭 ***I’m currently working on:***
----
+
 ## 🌱 ***I’m currently learning:***
 
 ![Java](https://img.shields.io/badge/Code-Java-brightgreen?style=flat-square&logo=java)
@@ -20,7 +20,7 @@ Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about gam
 ![Obsidian](https://img.shields.io/badge/Tool-Obsidian-purple?style=flat-square&logo=obsidian)
 ![Photoshop](https://img.shields.io/badge/Tool-Photoshop-blue?style=flat-square&logo=adobephotoshop)
 ![Aseprite](https://img.shields.io/badge/Tool-Aseprite-lightblue?style=flat-square&logo=aseprite)
----
+
 ## 💼***My Projects***
 
 🎲<ins>***[Piratas e Baleias](https://drive.google.com/file/d/1jTakohOBBKUVdLnVsVIqtoYZAoTla8mW/view?usp=sharing)***</ins>⭐
@@ -31,7 +31,6 @@ Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about gam
 
 🎮<ins>***[OnomosWhoosh](https://github.com/Smurillopng/OnomosWhoosh)***</ins>⭐
 
----
 ## 📫 ***Socials:***
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Smurillopng?style=social)
@@ -39,6 +38,7 @@ Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about gam
 ![GitHub followers](https://img.shields.io/github/followers/Smurillopng?style=social)
 
 ![Itch.io](https://img.shields.io/badge/smurillof-Itchio?style=social&logo=itchdotio)
+
 ---
 ***From:*** <img src="https://user-images.githubusercontent.com/72756949/141886008-7863eed5-9de6-42d1-9649-ec8fb324d012.png" alt="alt text" width="20" height="20"> :brazil:
 
