@@ -25,9 +25,9 @@ Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about gam
 
 🎲<ins>***[Piratas e Baleias](https://drive.google.com/file/d/1jTakohOBBKUVdLnVsVIqtoYZAoTla8mW/view?usp=sharing)***</ins>⭐
 
-🎮<ins>***[Onomos](https://github.com/kibug0/Onomos)***</ins>⭐
+🎮<ins>***[Onomos](https://github.com/Smurillopng/Onomos)***</ins>⭐
 
-🎮<ins>***[Astrotag](https://github.com/Athos067/ProjetoKsi)***</ins>⭐
+🎮<ins>***[Astrotag](https://github.com/Smurillopng/ProjetoKsi)***</ins>⭐
 
 🎮<ins>***[OnomosWhoosh](https://github.com/Smurillopng/OnomosWhoosh)***</ins>⭐
 
