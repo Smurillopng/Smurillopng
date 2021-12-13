@@ -37,8 +37,8 @@ Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about gam
 
 ![GitHub followers](https://img.shields.io/github/followers/Smurillopng?style=social)
 
-![Itch.io](https://img.shields.io/badge/smurillof-Itchio?style=social&logo=itchdotio?link=https://smurillof.itch.io//left&link=https://smurillof.itch.io//right)
-
+//![Itch.io](https://img.shields.io/badge/smurillof-Itchio?link=https://smurillof.itch.io//left&link=https://smurillof.itch.io//right?style=social&logo=itchdotio)
+<object data="https://img.shields.io/badge/smurillof-Itchio?link=https://smurillof.itch.io//left&link=https://smurillof.itch.io//right?style=social&logo=itchdotio"></object>
 ---
 ***From:*** <img src="https://user-images.githubusercontent.com/72756949/141886008-7863eed5-9de6-42d1-9649-ec8fb324d012.png" alt="alt text" width="20" height="20"> :brazil:
 
