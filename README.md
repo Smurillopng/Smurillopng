@@ -20,7 +20,9 @@ Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about gam
 ![Photoshop](https://img.shields.io/badge/Tool-Photoshop-blue?style=flat-square&logo=adobephotoshop)
 ![Aseprite](https://img.shields.io/badge/Tool-Aseprite-lightblue?style=flat-square&logo=aseprite)
 ---
-- 🎮 ***My Projects***
+- 💼***My Projects***
+
+🎲<ins>***[Piratas e Baleias](https://drive.google.com/file/d/1jTakohOBBKUVdLnVsVIqtoYZAoTla8mW/view?usp=sharing)***</ins>⭐
 🎮<ins>***[Astrotag](https://github.com/Athos067/ProjetoKsi)***</ins>⭐
 🎮<ins>***[Onomos](https://github.com/kibug0/Onomos)***</ins>⭐
 🎮<ins>***[OnomosWhoosh](https://github.com/Smurillopng/OnomosWhoosh)***</ins>⭐
