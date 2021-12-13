@@ -23,13 +23,19 @@ Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about gam
 - 💼***My Projects***
 
 🎲<ins>***[Piratas e Baleias](https://drive.google.com/file/d/1jTakohOBBKUVdLnVsVIqtoYZAoTla8mW/view?usp=sharing)***</ins>⭐
+
 🎮<ins>***[Astrotag](https://github.com/Athos067/ProjetoKsi)***</ins>⭐
+
 🎮<ins>***[Onomos](https://github.com/kibug0/Onomos)***</ins>⭐
+
 🎮<ins>***[OnomosWhoosh](https://github.com/Smurillopng/OnomosWhoosh)***</ins>⭐
+
 ---
 - 📫 ***Socials:***
 ![Twitter Follow](https://img.shields.io/twitter/follow/Smurillopng?style=social)
+
 ![GitHub followers](https://img.shields.io/github/followers/Smurillopng?style=social)
+
 ![Itch.io](https://img.shields.io/badge/smurillof-Itchio?style=social&logo=itchdotio)
 ---
 ***From:*** <img src="https://user-images.githubusercontent.com/72756949/141886008-7863eed5-9de6-42d1-9649-ec8fb324d012.png" alt="alt text" width="20" height="20"> :brazil:
