@@ -1,11 +1,12 @@
-### Hi there 👋
-- ℹ️ ***About me:*** 
+### Hi there 👋 I'm Sérgio
+
+## ℹ️ ***About me:*** 
 
 Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about games and music, doing his best to learn how to code and evolve in the field.
 ---
-- 🔭 ***I’m currently working on:***
+## 🔭 ***I’m currently working on:***
 ---
-- 🌱 ***I’m currently learning:***
+## 🌱 ***I’m currently learning:***
 
 ![Java](https://img.shields.io/badge/Code-Java-brightgreen?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python)
@@ -20,7 +21,7 @@ Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about gam
 ![Photoshop](https://img.shields.io/badge/Tool-Photoshop-blue?style=flat-square&logo=adobephotoshop)
 ![Aseprite](https://img.shields.io/badge/Tool-Aseprite-lightblue?style=flat-square&logo=aseprite)
 ---
-- 💼***My Projects***
+## 💼***My Projects***
 
 🎲<ins>***[Piratas e Baleias](https://drive.google.com/file/d/1jTakohOBBKUVdLnVsVIqtoYZAoTla8mW/view?usp=sharing)***</ins>⭐
 
@@ -31,7 +32,8 @@ Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about gam
 🎮<ins>***[OnomosWhoosh](https://github.com/Smurillopng/OnomosWhoosh)***</ins>⭐
 
 ---
-- 📫 ***Socials:***
+## 📫 ***Socials:***
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/Smurillopng?style=social)
 
 ![GitHub followers](https://img.shields.io/github/followers/Smurillopng?style=social)
