@@ -33,11 +33,11 @@ Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about gam
 
 ## 📫 ***Socials:***
 
-![Twitter](https://img.shields.io/badge/<Smurillopng>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Twitter](https://img.shields.io/badge/@Smurillopng-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/@Smurillopng-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+![Itch.io](https://img.shields.io/badge/@Smurillopng-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 ---
 ***From:*** <img src="https://user-images.githubusercontent.com/72756949/141886008-7863eed5-9de6-42d1-9649-ec8fb324d012.png" alt="alt text" width="20" height="20"> :brazil:
 
