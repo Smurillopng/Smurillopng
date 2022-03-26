@@ -6,6 +6,8 @@ Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about gam
 
 ## 🔭 ***I’m currently working on:***
 
+🧪 ***ShieldSlime*** 🛡️
+
 ## 🌱 ***I’m currently learning:***
 
 ![Java](https://img.shields.io/badge/Code-Java-brightgreen?style=flat-square&logo=java)
