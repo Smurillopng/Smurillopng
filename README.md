@@ -36,7 +36,9 @@ Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about gam
 ## 📫 ***Socials:***
 
 [![Twitter](https://img.shields.io/badge/@Smurillopng-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Smurillopng)
+
 [![GitHub](https://img.shields.io/badge/@Smurillopng-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Smurillopng)
+
 [![Itch.io](https://img.shields.io/badge/@Smurillopng-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://smurillof.itch.io)
 
 ---
