@@ -32,6 +32,8 @@ Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about gam
 
 🎮<ins>***[OnomosWhoosh](https://github.com/Smurillopng/OnomosWhoosh)***</ins>⭐
 
+🎮<ins>***[Slimes & Shields - Bad Campaign](https://smurillof.itch.io/shieldslime)***</ins>⭐
+
 ## 📫 ***Socials:***
 
 [![Twitter](https://img.shields.io/badge/@Smurillopng-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Smurillopng)
