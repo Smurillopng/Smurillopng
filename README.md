@@ -6,7 +6,7 @@ Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about gam
 
 ## 🔭 ***I’m currently working on:***
 
-🛡️ ***ShieldSlime*** 🧪
+🛡️ ***Slimes & Shields - Bad Campaign*** 🧪
 
 ## 🌱 ***I’m currently learning:***
 
