@@ -6,7 +6,7 @@ Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about gam
 
 ## 🔭 ***I’m currently working on:***
 
-🛡️ ***Slimes & Shields - Bad Campaign*** 🧪
+☢ ***Ilha 120: Desastre Radioativo*** 🧪
 
 ## 🌱 ***I’m currently learning:***
 
