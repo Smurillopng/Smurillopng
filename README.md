@@ -2,7 +2,7 @@
 
 ## ℹ️ ***About me:*** 
 
-Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about games and music, doing his best to learn how to code and evolve in the field.
+Graduated in Bachelor of Game Design at [SENAC-SP](https://www.sp.senac.br), passionate about games and music, doing my best to learn how to code and evolve in the field.
 
 ## 🌱 ***I’m currently learning:***
 
