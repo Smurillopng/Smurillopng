@@ -4,10 +4,6 @@
 
 Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about games and music, doing his best to learn how to code and evolve in the field.
 
-## 🔭 ***I’m currently working on:***
-
-💼 ***TCC*** 💼
-
 ## 🌱 ***I’m currently learning:***
 
 <div align="center">
@@ -35,6 +31,8 @@ Game Design student at [SENAC-SP](https://www.sp.senac.br), passionate about gam
 🎮<ins>***[Slimes & Shields - Bad Campaign](https://smurillof.itch.io/shieldslime)***</ins>⭐
 
 🎮<ins>***[ERROR 120](https://henriqueassis.itch.io/error-120)***</ins>⭐
+
+🎮<ins>***[Valquíria](https://digomeat.itch.io/vikings-hd2d)***</ins>⭐
 
 ## 📫 ***Socials:***
 
