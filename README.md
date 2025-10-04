@@ -8,31 +8,35 @@ Graduated in Bachelor of Game Design at [SENAC-SP](https://www.sp.senac.br), pas
 
 <div align="center">
   
-  | | | | | | |
-  | :-: | :-: | :-: | :-: | :-: | :-: |
-  |[![Java](https://img.shields.io/badge/Code-Java-F89820?style=flat-square&logo=java)](https://www.w3schools.com/java/)|[![Python](https://img.shields.io/badge/Code-Python-3776ab?style=flat-square&logo=python)](https://www.w3schools.com/python/)|[![HTML](https://img.shields.io/badge/Code-HTML-F06529?style=flat-square&logo=HTML5)](https://www.w3schools.com/html/)|[![CSS](https://img.shields.io/badge/Code-CSS-EBEBEB?style=flat-square&logo=CSS3)](https://www.w3schools.com/css/)|[![JavaScript](https://img.shields.io/badge/Code-Javascript-F0DB4F?style=flat-square&logo=javascript)](https://www.w3schools.com/js/)|[![C#](https://img.shields.io/badge/Code-C%23-d4d4d4?style=flat-square&logo=csharp)](https://www.w3schools.com/cs/index.php)|
-  |[![VSCode](https://img.shields.io/badge/Editor-VSCode-0078D7?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)|[![Rider](https://img.shields.io/badge/Editor-Rider-8F00FF?style=flat-square&logo=rider)](https://www.jetbrains.com/rider/)|[![Unity](https://img.shields.io/badge/Tool-Unity-lightgrey?style=flat-square&logo=unity)](https://unity.com/)|[![Github](https://img.shields.io/badge/Tool-Github-211F1F?style=flat-square&logo=github)](https://github.com/)|[![Obsidian](https://img.shields.io/badge/Tool-Obsidian-7E1DFB?style=flat-square&logo=obsidian)](https://obsidian.md/)|[![Photoshop](https://img.shields.io/badge/Tool-Photoshop-blue?style=flat-square&logo=adobephotoshop)](https://www.adobe.com/products/photoshop/landpa.html?sdid=KQPOM&mv=search&ef_id=CjwKCAjwur-SBhB6EiwA5sKtjns6yTkQ2IsXvIaE4tmIdaU6Cg-yNFulspYWcj8Ax4vcdctKsiDuERoC0tYQAvD_BwE:G:s&s_kwcid=AL!3085!3!534509111518!e!!g!!photoshop!188192502!10077842982&gclid=CjwKCAjwur-SBhB6EiwA5sKtjns6yTkQ2IsXvIaE4tmIdaU6Cg-yNFulspYWcj8Ax4vcdctKsiDuERoC0tYQAvD_BwE)|
-  |[![Aseprite](https://img.shields.io/badge/Tool-Aseprite-lightblue?style=flat-square&logo=aseprite)](https://www.aseprite.org/) || | | | |
+  | **Language** | **Editor**       | **Tools**                                                                                    |
+  |:------------:|:----------------:|:--------------------------------------------------------------------------------------------:|
+  | [![C#](https://img.shields.io/badge/Code-C%23-d4d4d4?style=flat-square&logo=sharp)](https://www.w3schools.com/cs/index.php) | [![VSCode](https://img.shields.io/badge/Editor-VSCode-0078D7?style=flat-square)](https://code.visualstudio.com/) | [![Unity](https://img.shields.io/badge/Tool-Unity-lightgrey?style=flat-square&logo=unity)](https://unity.com/) |
+  | [![GDScript](https://img.shields.io/badge/Code-GDScript-478cbf?style=flat-square&logo=godotengine)](https://godotengine.org/) | [![Rider](https://img.shields.io/badge/Editor-Rider-8F00FF?style=flat-square&logo=rider)](https://www.jetbrains.com/rider/) | [![Aseprite](https://img.shields.io/badge/Tool-Aseprite-lightblue?style=flat-square&logo=aseprite)](https://www.aseprite.org/) |
+  |              |                  | [![Notion](https://img.shields.io/badge/Tool-Notion-000000?style=flat-square&logo=notion)](https://www.notion.so/) |
+  |              |                  | [![Blender](https://img.shields.io/badge/Tool-Blender-F5792A?style=flat-square&logo=blender)](https://www.blender.org/) |
+  |              |                  | [![Clip Studio Paint](https://img.shields.io/badge/Tool-Clip%20Studio%20Paint-00C4CC?style=flat-square&logo=clipstudio)](https://www.clipstudio.net/en/) |
   
 </div>
 
 ## 💼***My Projects***
 
-🎲<ins>***[Piratas e Baleias](https://drive.google.com/file/d/1jTakohOBBKUVdLnVsVIqtoYZAoTla8mW/view?usp=sharing)***</ins>⭐
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam Store" width="15" height="15"> <ins>***[Ruling Horsestown](https://store.steampowered.com/app/3688510/Ruling_Horsestown/)***</ins>⭐
 
-🎮<ins>***[Onomos](https://smurillof.itch.io/onomos)***</ins>⭐
-
-🎮<ins>***[A Casa dos Ushers](https://digomeat.itch.io/a-casa-dos-ushers)***</ins>⭐
-
-🎮<ins>***[Astrotag](https://smurillof.itch.io/astrotag)***</ins>⭐
-
-🎮<ins>***[OnomosWhoosh](https://github.com/Smurillopng/OnomosWhoosh)***</ins>⭐
-
-🎮<ins>***[Slimes & Shields - Bad Campaign](https://smurillof.itch.io/shieldslime)***</ins>⭐
+🎮<ins>***[Valquíria](https://digomeat.itch.io/vikings-hd2d)***</ins>⭐
 
 🎮<ins>***[ERROR 120](https://henriqueassis.itch.io/error-120)***</ins>⭐
 
-🎮<ins>***[Valquíria](https://digomeat.itch.io/vikings-hd2d)***</ins>⭐
+🎮<ins>***[Slimes & Shields - Bad Campaign](https://smurillof.itch.io/shieldslime)***</ins>⭐
+
+🎮<ins>***[OnomosWhoosh](https://github.com/Smurillopng/OnomosWhoosh)***</ins>⭐
+
+🎮<ins>***[Astrotag](https://smurillof.itch.io/astrotag)***</ins>⭐
+
+🎮<ins>***[A Casa dos Ushers](https://digomeat.itch.io/a-casa-dos-ushers)***</ins>⭐
+
+🎮<ins>***[Onomos](https://smurillof.itch.io/onomos)***</ins>⭐
+
+🎲<ins>***[Piratas e Baleias](https://drive.google.com/file/d/1jTakohOBBKUVdLnVsVIqtoYZAoTla8mW/view?usp=sharing)***</ins>⭐
 
 ## 📫 ***Socials:***
 
